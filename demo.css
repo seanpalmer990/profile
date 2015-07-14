@@ -1,0 +1,36 @@
+h2 {
+  color: blue;
+  font-family: 'Pacifico',cursive;
+  font-size: 40px
+}
+
+#Welcome {
+  color: blue;
+}
+#word1{
+  color: blue;
+}
+h1{
+  font-family:'Pacifico',cursive;
+  font-size: 45px
+}
+ul {
+  border:10px;
+  background: #7785ED;
+  padding: 10px;
+  text-align: center;
+}
+.text {
+  font-weight: bold;
+  font-size: 25px;
+  color: black;
+}
+body {
+  background-image: url(androidify.gif)
+}
+p {
+  border:5px;
+  background: #7785ED;
+  padding: 1px;
+  text-align: center;
+}
